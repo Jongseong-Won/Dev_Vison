@@ -1,6 +1,6 @@
 # Dev_Vison
 
-![1](https://user-images.githubusercontent.com/24608378/113106067-4a2c2700-923d-11eb-8a76-5c8db8d81965.PNG)
+![1](https://user-images.githubusercontent.com/24608378/113106129-5adc9d00-923d-11eb-8ffb-a64a45de18b4.PNG)
 
 |구분|표본수|이미지수|실제불량|불량판단수|미검|오과검|합계|약검|중복검|합계|총계|미검|검출률|정확도|비고|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
