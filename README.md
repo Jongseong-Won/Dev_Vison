@@ -10,7 +10,7 @@
 * 4/1 정상제품 → 링 미조립 오검 
 (Object 검출 오류 개선 실패, 동일 오류 확인, 라벨링 방법 변경을 통한 개선 시도예정)
 ![over_detection](https://user-images.githubusercontent.com/24608378/113259595-43b6b180-9308-11eb-9830-6a7eabe9f1da.png)
-* 4/1 제품 영역 외 라벨링 이슈 → 지정 영역만 검사하도록 프로그램 수정 
+* 4/1 제품 영역 외 라벨링 이슈 → 지정 영역만 검사하도록 프로그램 수정 예정
 ![over_detection](https://user-images.githubusercontent.com/24608378/113260390-2df5bc00-9309-11eb-9aa4-6825562fe4ab.png)
 
 
