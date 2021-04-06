@@ -11,6 +11,8 @@
 |4/6|72|360|59|5|1|6|5|2|7|13|13|81.9%|96.4%|이색제품(5개) 투입|
 
 
+* 4/6 이색 검사 오류
+![over_detection](https://user-images.githubusercontent.com/24608378/113685038-ce305400-9700-11eb-8e07-4db4156ec08a.png)
 * 4/5 링/캡 미조립 검사 오류
 ![over_detection](https://user-images.githubusercontent.com/24608378/113681669-34b37300-96fd-11eb-82c3-766738863902.png)
 * 4/1 정상제품 → 링 미조립 오검 
